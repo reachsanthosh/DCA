@@ -5,7 +5,7 @@ import {map } from 'rxjs/operators';
 import { User } from '../_models/User';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root' 
 })
 export class AccountService {
   
